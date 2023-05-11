@@ -38,8 +38,7 @@
     },
     "peerDependencies": {
         "react": "*",
-        "react-native": "*",
-        "react-native-blob-util": ">=0.13.7"
+        "react-native": "*"
     },
     "files": [
         "android/",
